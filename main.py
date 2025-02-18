@@ -16,3 +16,8 @@ if __name__ == '__main__':
 print("first commit")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+print("Bellma")
+
+if True:
+    print("Change")
