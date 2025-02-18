@@ -14,7 +14,10 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 print("first commit")
-
+print("Pranvera")
+input("What's your name?")
+input("How old are you?")
+print("12")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 print("Bellma")
